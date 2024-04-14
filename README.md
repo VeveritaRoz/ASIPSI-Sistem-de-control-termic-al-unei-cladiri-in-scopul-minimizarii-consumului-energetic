@@ -1,1 +1,1 @@
-Pentu vizualizarea proiectului din Jira se va utiliza următorul link: 
+Pentu vizualizarea proiectului din Jira se va utiliza următorul link: https://andrei-marinescu.atlassian.net/jira/software/c/projects/LDL/boards/4/backlog?assignee=712020%3A69101606-f36e-4fdc-bbf1-8c39e27198b0%2Cunassigned&atlOrigin=eyJpIjoiOGVkMTAxMDBkNGVjNGYxYjlmZmU4MDU0Y2E2NWIzZWEiLCJwIjoiaiJ9&epics=visible
